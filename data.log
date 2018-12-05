@@ -1,0 +1,14 @@
+2018-12-05 16:38:50,497 - mylogger - INFO - foorbar
+2018-12-05 16:38:51,998 - mylogger - INFO - b'Test'
+2018-12-05 16:38:55,944 - mylogger - INFO - b'Test'
+2018-12-05 16:39:56,750 - mylogger - INFO - 已经连接
+2018-12-05 16:39:59,741 - mylogger - INFO - b'Test'
+2018-12-05 16:40:02,195 - mylogger - INFO - b'Test'
+2018-12-05 16:48:08,142 - mylogger - INFO - 已经连接
+2018-12-05 16:48:09,650 - mylogger - INFO - b'Test'
+2018-12-05 16:48:11,272 - mylogger - INFO - b'Test'
+2018-12-05 16:48:12,320 - mylogger - INFO - b'Test'
+2018-12-05 16:48:12,920 - mylogger - INFO - b'Test'
+2018-12-05 16:48:13,481 - mylogger - INFO - b'Test'
+2018-12-05 16:48:13,978 - mylogger - INFO - b'Test'
+2018-12-05 16:48:14,450 - mylogger - INFO - b'Test'
